@@ -1,0 +1,19 @@
+ul{
+    display: flex;
+    justify-content: space-around;
+    font-size: 2vw;
+}
+ul > li {
+    width: 25%;
+}
+ 
+ 
+li:hover {
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: underline;
+}
+div{
+    justify-content: space-around;
+}
+
